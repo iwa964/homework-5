@@ -29,14 +29,14 @@ During this assignment, you will:
 
 # Phase 1 [for credit]
 
-## Task 0: Fork this repo on GitHub
+## Task 0: Fork this repo on GitHub [done]
 **To get started, fork this repo on GitHub and then make a clone.**
 
 Open the project in IntelliJ and make sure you can successfully run `app/MainWithDB.java`.
 Note: you may need to set the Project SDK in the `Project Structure...` menu, and possibly
 also manually link the Maven project.
 
-## Task 1: Understanding the Program
+## Task 1: Understanding the Program [done]
 
 Try the signup, login, and change password use cases by running the program.
 Notice that the "Log Out" button doesn't do anything when you click it — to test whether

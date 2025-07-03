@@ -19,4 +19,12 @@ public interface SignupUserDataAccessInterface {
      * @param user the user to save
      */
     void save(User user);
+
+    /**
+     * Sets the current user
+     * @param name name of user
+     */
+    void setCurrentUser(String name);
+
+    String getCurrentUser();
 }
