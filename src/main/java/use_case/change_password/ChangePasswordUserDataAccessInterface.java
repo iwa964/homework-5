@@ -14,4 +14,6 @@ public interface ChangePasswordUserDataAccessInterface {
     void changePassword(User user);
 
     void setCurrentUser(String name);
+
+    String getCurrentUser();
 }
